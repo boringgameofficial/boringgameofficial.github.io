@@ -1,0 +1,60 @@
+body {
+    background-color: #000000;
+    background-image: url('images/background-dark.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+button, textarea, input{
+    background-color: #00000080;
+    border-radius: 10px;
+    padding: 10px;
+}
+@keyframes block{
+    0% {background-color: #000000;}
+    50% {background-color: #00000090;}
+    100% {background-color: #000000;}
+}
+a, p, h3, h4, table, button, textarea, input{
+    color:#ffffff;
+}
+hr, a{
+    color: #ff0000;
+}
+.frame, h1, h2{
+    color:#ffffff;
+    border: 1px solid #ff0000;
+    border-radius: 10px;
+    background-color: #00000080;
+    padding: 10px;
+}
+.frame:hover, h1:hover, h2:hover{
+    animation-name:block;
+    animation-duration:2s;
+    animation-iteration-count:infinite;
+    animation-delay:0.01s;
+}
+.flex{
+    display:flex;
+}
+.flex-1{
+    flex:1;
+}
+.flex-2{
+    flex:2;
+}
+#contents{
+    position:fixed;
+    width: 200px;
+    height: 250px;
+    bottom: 0px;
+    right: 0px;
+}
+.shady{
+    background-color: #252525;
+    color: #252525;
+    transition: color 0.5s;
+}
+.shady:hover{
+    color: #ffffff;
+}

@@ -1,0 +1,385 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Boring Game</title>
+    <link>https://boringgameofficial.github.io/tags/blog/</link>
+    <description>Recent content in Blog on Boring Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>© 2026 Boring Game All Right Reserved.</copyright>
+    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://boringgameofficial.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的個人網站發展史</title>
+      <link>https://boringgameofficial.github.io/blog/20260118/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/blog/20260118/</guid>
+      <description>&lt;p&gt;在深挖硬碟的時候，我找回了我的第一版個人網站。因為不知道要寫什麼當作 blog 的內容，乾脆談談我的個人網站發展史吧！&lt;/p&gt;
+&lt;h3 id=&#34;第一版&#34;&gt;第一版&lt;/h3&gt;
+&lt;p&gt;2022 年的某日，我心血來潮，想學習如何寫網頁，於是我找了 HTML 和 CSS 的教學：&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/Ml78vnNTBLw&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/Ml78vnNTBLw&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;然後寫出了很醜的網頁。&lt;/del&gt;&lt;/p&gt;
+&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260118-1.jpg&#34; width=&#34;600&#34; alt=&#34;第一版個人網站截圖&#34;/&gt;
+&lt;p&gt;（如果你想要來看整個網頁長什麼模樣，可以點&lt;a href=&#34;https://boringgameofficial.github.io/old-website.html&#34;&gt;這裡&lt;/a&gt;。不過內容不是當初那個樣子，而是被改成和現在主頁相同的文字了。）&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;就網頁的介面而言，其實可以看出我當時在嘗試把那兩部影片的所有教學內容都加入到網頁中。&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;網頁檔案寫完之後，我將它們&lt;strong&gt;放在 Google Drive 上，用 &lt;a href=&#34;https://www.drv.tw&#34;&gt;DriveToWeb&lt;/a&gt; 去架網站&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;第二版&#34;&gt;第二版&lt;/h3&gt;
+&lt;p&gt;2023 年 4 月 3 日，&lt;del&gt;由於我覺得第一版的網頁很醜&lt;/del&gt;，再加上發現 Google 有協作平台，我試玩了一下，架了第二版的網頁。&lt;/p&gt;
+&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260118-2.jpg&#34; width=&#34;600&#34; alt=&#34;第二版個人網站截圖&#34;/&gt;
+&lt;p&gt;（同樣地，內容也被改成和現在主頁相同的文字了。除外，字型也&lt;strong&gt;不一定符合當初的樣子&lt;/strong&gt;。）&lt;/p&gt;
+&lt;h3 id=&#34;第三版&#34;&gt;第三版&lt;/h3&gt;
+&lt;p&gt;就是現在這一版。&lt;/p&gt;
+&lt;p&gt;和前兩版不同，我使用了 &lt;strong&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 和 Github Pages&lt;/strong&gt; 架設了本網站，而我選的 Hugo theme 是 &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-bearblog&#34;&gt;Hugo Bear Blog&lt;/a&gt;。後來我改動了 CSS，將背景加上圖片，文字區塊加上模糊效果。&lt;/p&gt;
+&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260118-3.jpg&#34; width=&#34;600&#34; alt=&#34;第三版個人網站截圖（淺色模式）&#34;/&gt;
+&lt;p&gt;這版也有深色模式。&lt;/p&gt;
+&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260118-4.jpg&#34; width=&#34;600&#34; alt=&#34;第三版個人網站截圖（深色模式）&#34;/&gt;
+&lt;p&gt;至於為什麼改用 Hugo，&lt;del&gt;其實是為了要 deGoogle&lt;/del&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>小小推坑：Lilysse Collective</title>
+      <link>https://boringgameofficial.github.io/blog/20260105/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/blog/20260105/</guid>
+      <description>&lt;p&gt;（本篇為 &lt;a href=&#34;https://wiwi.blog/blog/blogblog-party-jan-2026&#34;&gt;BlogBlog 同樂會 - 第 1 期：推坑&lt;/a&gt;之投稿貼文）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20190201183118if_/http://lilysse.com&#34;&gt;Lilysse Collective&lt;/a&gt; 為由 &lt;a href=&#34;https://lockyn.me&#34;&gt;Lockyn&lt;/a&gt; 和 &lt;a href=&#34;https://soundcloud.com/mistmurk&#34;&gt;mistmurk&lt;/a&gt; 共同創辦的音樂廠牌（&lt;a href=&#34;https://x.com/LilysseC/status/1123833056685694976&#34;&gt;現無限期暫停&lt;/a&gt;）。雖然他們主打 EDM 音樂，但歌曲保有&lt;strong&gt;獨立、非主流&lt;/strong&gt;的韻味。&lt;/p&gt;
+&lt;h2 id=&#34;成員列表及簡短介紹&#34;&gt;成員列表及簡短介紹&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lockyn（舊名 Khrossfire） - 美國人，擅長多種 EDM 風格，音色獨特。作品結構不拘泥於主流，但依然充滿舞曲的爽快感。&lt;/li&gt;
+&lt;li&gt;mistmurk - 美國人，擅長 Ambient，作品風格 Chill，令人放鬆。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.toneden.io/emblur&#34;&gt;3MBER&lt;/a&gt; - 美國人，&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach&lt;/a&gt; 的封面作者。寫過 House、Glitch Hop 等，旋律性強且可愛。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linktr.ee/dustkey&#34;&gt;Dustkey&lt;/a&gt; - 荷蘭人，擅長 Liquid Drum &amp;amp; Bass。曾在 &lt;a href=&#34;https://web.archive.org/web/20231129220112if_/https://differentialdnb.nl&#34;&gt;Differential Recordings&lt;/a&gt;、&lt;a href=&#34;https://liquicity.com&#34;&gt;Liquicity&lt;/a&gt; 投歌。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://x.com/Suroki&#34;&gt;Suroki&lt;/a&gt; - 澳洲人，製作人兼歌手，擅長 Pop。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linktr.ee/Skyth&#34;&gt;Skyth&lt;/a&gt; - 美國人，擅長 Dubstep、Drum &amp;amp; Bass 等，歌曲相對主流。曾和 Boom Kitty 合作，其中 &lt;a href=&#34;https://boomkitty.fanlink.tv/tomb&#34;&gt;Tomb&lt;/a&gt; 為 &lt;a href=&#34;https://robtopgames.com&#34;&gt;Geometry Dash&lt;/a&gt; 中 The Tower 的 The Cursed Thorn Boss 主題曲。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prowerrr.carrd.co&#34;&gt;Prower&lt;/a&gt; - 英國人，擅長&lt;del&gt;炫技&lt;/del&gt;（褒義），Paradigm: Reboot、Arcaea 等音遊有收錄他的歌曲。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://antiscapemusic.wixsite.com/website&#34;&gt;Antiscape&lt;/a&gt;（又名 &lt;a href=&#34;https://www.toneden.io/trinion-music&#34;&gt;TRINION&lt;/a&gt;）- 荷蘭人，專攻 House，作品長而平緩，極具可聽性。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/finderx&#34;&gt;Finder&lt;/a&gt; - 加拿大人，&lt;a href=&#34;https://savinglight.io&#34;&gt;SAVINGLIGHT.&lt;/a&gt; 廠牌製作人。歌曲衝擊力強且具張力，以非主流的結構著稱。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://soundcloud.com/vulpec-edm&#34;&gt;Vulpec&lt;/a&gt; - 美國人，曾在 &lt;a href=&#34;https://linktr.ee/simplifyrecs&#34;&gt;Simplify Recordings&lt;/a&gt; 投過曲。歌曲多變，涵蓋不同的情感。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://samguild.bandcamp.com/music&#34;&gt;Sam Guild&lt;/a&gt;（舊名 Syrge）- 美國人，近期歌曲實驗性強、氛圍感重。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ko-fi.com/nyhaaa&#34;&gt;Nyha&lt;/a&gt; - 寫過 Deep House、Psytrance，這個名義只在 Lilysse Collective &lt;a href=&#34;https://lilysse.bandcamp.com/track/niru&#34;&gt;只投過一次曲&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（這裡沒寫到 &lt;a href=&#34;https://www.youtube.com/channel/UCx2P3_YVH9zyUqc-83bPYRA&#34;&gt;KORAII&lt;/a&gt; 的原因是 Lilysse Collective 的 YouTube 上的成員清單有包含他，但在 SoundCloud 上沒有，我不知道哪個才是正確的）&lt;/p&gt;
+&lt;h3 id=&#34;推歌&#34;&gt;推歌&lt;/h3&gt;
+&lt;p&gt;以下是在廠牌中我特別喜歡的歌曲。&lt;/p&gt;
+&lt;h3 id=&#34;lilysse-vol-1---bloomhttpslilyssebandcampcomalbumlilysse-vol-1-bloom&#34;&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-1-bloom&#34;&gt;Lilysse Vol. 1 - Bloom&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3MBER - Around&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1846346444/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=1584426059/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-1-bloom&#34;&gt;Lilysse Vol. 1 - Bloom by 3MBER&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;清新可愛的小曲。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Koraii - Uplink&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/CdtAJ-aYWy8&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;充滿懷舊感的 Synthwave，尤其後半段的 vocal chop 令人驚豔。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dustkey - Hard to Smile&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1846346444/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=4082577941/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-1-bloom&#34;&gt;Lilysse Vol. 1 - Bloom by Dustkey&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;靜謐的 Drum &amp;amp; Bass，令人沉浸在毫無喧囂的世界中。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skyth - Euphoria&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1846346444/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=98646480/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-1-bloom&#34;&gt;Lilysse Vol. 1 - Bloom by Skyth&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;刺激的 Melodic Dubstep，特別喜歡第二段 drop 中的鼓組變化。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prower - #Fötö&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1846346444/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=1175943292/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-1-bloom&#34;&gt;Lilysse Vol. 1 - Bloom by Prower&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;純炫技的歌曲，第二段 drop 的結構變化大幅增強了可聽性。&lt;/p&gt;
+&lt;h3 id=&#34;lilysse-collective---lilysse-after-dark-vol-1httpslilyssebandcampcomalbumlilysse-after-dark-vol-1&#34;&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-1&#34;&gt;Lilysse Collective - Lilysse After Dark: Vol. 1&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;mistmurk + 3MBER - Utopia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2432576114/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=2572755968/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-1&#34;&gt;Lilysse After Dark: Vol. 1 by mistmurk + 3MBER&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;神曲，無需多言。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suroki - Bump&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2432576114/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=3789041217/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-1&#34;&gt;Lilysse After Dark: Vol. 1 by Suroki&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;偏向氛圍的曲子，前後段略帶陰鬱感。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dustkey - Something Wrong With Your TV Set&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2432576114/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=887627369/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-1&#34;&gt;Lilysse After Dark: Vol. 1 by Dustkey&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;Dustkey 最陰鬱的一首氛圍曲。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skyth - Broken Within&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2432576114/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=3250618846/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-1&#34;&gt;Lilysse After Dark: Vol. 1 by Skyth&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;同樣是很爽的 Dubstep（這首旋律性較弱，旋律派請跳過這首）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finder - Error&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2432576114/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=679554129/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-1&#34;&gt;Lilysse After Dark: Vol. 1 by Finder&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;爽曲，但多了一些實驗性（？）和情感。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Syrge - Anamnesis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=2432576114/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=4040246387/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-1&#34;&gt;Lilysse After Dark: Vol. 1 by Syrge&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;氛圍、爽感兼具，同時卻又比較安靜的歌曲。&lt;/p&gt;
+&lt;h3 id=&#34;lilysse-collective---lilysse-vol-2---reachhttpslilyssebandcampcomalbumlilysse-vol-2-reach&#34;&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Collective - Lilysse Vol. 2 - Reach&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vulpec - Shutdown (feat. n i n e t a i l s)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=101444881/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=2251763983/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach by Vulpec&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;神曲，尤其是從飽滿的 buildup 到 Minimal 的 drop 段。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prower - Puzzles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=101444881/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=1687106278/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach by Prower&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;#Fötö 2.0，但這次可以爽 5 分鐘。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skyth - Fond&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=101444881/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=3853902216/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach by Skyth&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;Melodic Dubstep，本曲的氛圍更為快樂，編排也更加成熟。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dustkey - How to Bake a Cake&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=101444881/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=1905629839/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach by Dustkey&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;Hard to Smile 2.0，但後段 chiptune 旋律的點綴昇華了整首歌曲。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Venkus - Transit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=101444881/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=3101127409/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach by Venkus&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;1:53 和 3:28 帶給我的震撼感大到大腦過載了，特別是這兩段與其他部分反差巨大的情況下。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Syrge - Existential&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=101444881/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=2240861410/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach by Syrge&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;同樣是氛圍、爽感兼具，但比 Anamnesis 更注重於爽快的體驗。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lockyn - Spirit of the Lilies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=101444881/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=3918590716/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach by Lockyn&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;極具特色的 Electro House，雖然編排較為主流，但 drop 主旋律音色足以讓聽感煥然一新。&lt;/p&gt;
+&lt;h3 id=&#34;lilysse-collective---lilysse-vol-3---nurturehttpslilyssebandcampcomalbumlilysse-vol-3-nurture&#34;&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-3-nurture&#34;&gt;Lilysse Collective - Lilysse Vol. 3 - Nurture&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3MBER - Clear Glass&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1854038450/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=264867520/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-3-nurture&#34;&gt;Lilysse Vol. 3 - Nurture by 3MBER&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;第二段 drop 的鼓組編排非常新穎。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Koraii - Burning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/pgGQWoZhoTY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;原曲為 &lt;a href=&#34;https://www.newgrounds.com/audio/listen/704018&#34;&gt;Heartburn&lt;/a&gt;，但聽感除旋律相同，其音色同樣俏皮外，其餘完全不同，尤其是第二段 drop。搭配 Synthwave 的鼓組反倒沒使歌曲聽感變得老舊，而提升了 drop 段的爽感。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Syrge - Microcosm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1854038450/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=4240694748/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-3-nurture&#34;&gt;Lilysse Vol. 3 - Nurture by Syrge&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;1:07 段很帥，帶有濃厚的&lt;strong&gt;非主流&lt;/strong&gt;味。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prower - Doodles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1854038450/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=1702837867/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-3-nurture&#34;&gt;Lilysse Vol. 3 - Nurture by Prower&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;#Fötö 3.0，但音感和炫技部分都有所不同，帶來了新鮮感。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;mistmurk - eggs and jam&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1854038450/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=2404371893/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-3-nurture&#34;&gt;Lilysse Vol. 3 - Nurture by mistmurk&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;氛圍曲，但是&lt;del&gt;為什麼這首歌可以那麼可愛&lt;/del&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dustkey - Letting Go (ft. Suroki)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1854038450/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=3527177625/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-3-nurture&#34;&gt;Lilysse Vol. 3 - Nurture by Dustkey&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;Hard to Smile 3.0，但情感更加飽滿。&lt;/p&gt;
+&lt;h3 id=&#34;lilysse-collective---lilysse-after-dark-vol-2httpslilyssebandcampcomalbumlilysse-after-dark-vol-2&#34;&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-2&#34;&gt;Lilysse Collective - Lilysse After Dark: Vol. 2&lt;/a&gt;&lt;/h3&gt;
+&lt;iframe style=&#34;border: 0; width: 400px; height: 373px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=927649750/size=large/bgcol=333333/linkcol=e32c14/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-after-dark-vol-2&#34;&gt;Lilysse After Dark: Vol. 2 by Lilysse Collective&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;這張專輯中的每首歌都極具個人特色，我會推薦整張專輯，但特別想提到一首：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Koraii - Cable Kid&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/TKCFeOYJxj8&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;神曲，Future Funk 和實驗性要素的絕妙結合，整首歌曲的結構可用「天才」來形容。如果你不打算完整聽完這張專輯，這首歌一定要聽。&lt;/p&gt;
+&lt;h3 id=&#34;lilysse-collective---lilysse-vol-4---flourishhttpslilyssebandcampcomalbumlilysse-vol-4-flourish&#34;&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-4-flourish&#34;&gt;Lilysse Collective - Lilysse Vol. 4 - Flourish&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Skyth - Bliss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3506617383/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=3588703231/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-4-flourish&#34;&gt;Lilysse Vol. 4 - Flourish by Skyth&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;爽快的 Dubstep，但聽感又和其他 Skyth 的歌曲不同，讓人耳目一新。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prower - Full Dive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3506617383/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=3373218122/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-4-flourish&#34;&gt;Lilysse Vol. 4 - Flourish by Prower&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;Prower 的曲中比較少炫技的一首，聽感也有所差異。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vulpec - Oscillations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=3506617383/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=2847310355/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-4-flourish&#34;&gt;Lilysse Vol. 4 - Flourish by Vulpec&lt;/a&gt;&lt;/iframe&gt;
+&lt;p&gt;Vulpec 的曲中比較安靜的一首，氛圍感重。&lt;/p&gt;
+&lt;p&gt;除了這些歌曲外，如果你有空，請聽完 Lilysse Collective 所有發布的歌曲。&lt;/p&gt;
+&lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;
+&lt;p&gt;Lilysse Collective 是一個商業感不重的廠牌，反倒像是同人音樂社團，具有獨特的風格，散發著獨立音樂的魅力。無論你是 EDM 歌迷還是尋求耳目一新音樂的聽眾，Lilysse Collective 都有值得一聽的作品。&lt;/p&gt;
+&lt;h2 id=&#34;免責聲明&#34;&gt;免責聲明（？）&lt;/h2&gt;
+&lt;p&gt;我不是樂評，我不懂怎麼製作音樂，所以如果上文內容有誤或是用字不夠精確，請使用 e-mail 聯繫我： &lt;a href=&#34;mailto:boringgameofficial@proton.me&#34;&gt;boringgameofficial@proton.me&lt;/a&gt;，或是進入我的 &lt;a href=&#34;https://discord.gg/qRz8PrGGd9&#34;&gt;Discord 伺服器&lt;/a&gt;幫助我。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>我真正意義上的第一篇貼文</title>
+      <link>https://boringgameofficial.github.io/blog/20260104/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/blog/20260104/</guid>
+      <description>&lt;p&gt;這應該是我真正意義上的第一篇貼文。&lt;/p&gt;
+&lt;h2 id=&#34;為什麼我開始經營部落格&#34;&gt;為什麼我開始經營部落格？&lt;/h2&gt;
+&lt;p&gt;用經營這個詞好像不太妥當。&lt;/p&gt;
+&lt;p&gt;主要原因是被 Author 推薦了 Wiwi 的部落格，看到了這篇&lt;a href=&#34;https://wiwi.blog/blog/it-doesnt-take-many#%E4%BD%A0%E7%9A%84-blog-%E5%8F%AF%E4%BB%A5%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C&#34;&gt;貼文&lt;/a&gt;。（不過矛盾的是，當我意識到自己的作品可能被發現時，會不由自主地害羞起來。我知道「被看見」是一件正常且不需要感到尷尬的事情，但我沒法阻止自己想到那邊去。）&lt;/p&gt;
+&lt;h2 id=&#34;思考抗拒被看見的原因&#34;&gt;思考抗拒被看見的原因&lt;/h2&gt;
+&lt;p&gt;可能是潛意識在自我否定吧。&lt;/p&gt;
+&lt;p&gt;我的個人網站有很多中英文混用，加上文筆極差，使得整體性大打折扣。但實際上，中英文混用不是為了讓我有個看起來很專業的架子（畢竟你能看出來我的作品，不管是音樂還是繪畫，其實都只是做好玩的），只是我中文和英文都很爛，而且表達能力很差罷了。&lt;/p&gt;
+&lt;p&gt;然而，即使我的文筆極差，&lt;a href=&#34;https://alexhsu.com/broken-chinese&#34;&gt;本質上其實問題不大&lt;/a&gt;。這就是為什麼我說「&lt;strong&gt;潛意識&lt;/strong&gt;」在自我否定——明知自己這樣做不會怎樣，但心裡還是怕怕的。&lt;/p&gt;
+&lt;h2 id=&#34;這篇貼文到底想說什麼&#34;&gt;這篇貼文到底想說什麼？&lt;/h2&gt;
+&lt;p&gt;我不知道。看到這裡的人，&lt;del&gt;恭喜你成為讓我感到尷尬的其中一個罪魁禍首&lt;/del&gt;。&lt;/p&gt;
+&lt;p&gt;之後我可能會新增一個新的 blogroll 介面，和寫一篇貼文投稿到 &lt;a href=&#34;https://blogblog.club&#34;&gt;BlogBlog 同樂會&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;想不到要繼續寫什麼了，我也不想用 AI 修改或增加篇幅，這篇貼文就這樣結束吧。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marshmallow Q&amp;A</title>
+      <link>https://boringgameofficial.github.io/blog/20251225/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/blog/20251225/</guid>
+      <description>&lt;p&gt;差點忘記自己有開 Marshmallow 了，總之現在來回答大家的問題。&lt;/p&gt;
+&lt;h3 id=&#34;q1&#34;&gt;Q1.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/f92cd7c5-a627-48eb-8ebe-342473cb7ce4&#34;&gt;bg 想要移除bg的時候是不是都用remove bg&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有沒有一種可能是 bg 沒有想要移除 bg（&lt;del&gt;暫時&lt;/del&gt;）&lt;/p&gt;
+&lt;h3 id=&#34;q2&#34;&gt;Q2.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/13dceee5-89ef-41f5-a9ad-1c0644086757&#34;&gt;bg和sk是親生兄弟嗎&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不是，&lt;del&gt;很可惜的&lt;/del&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;q3&#34;&gt;Q3.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/4200a3ae-f07a-4272-bb66-bd16c69695b6&#34;&gt;你是怎麼發現你有玩 geometry dash的天賦的&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我其實沒有玩 GD 的天賦，只是被推來玩然後就喜歡上這遊戲了。&lt;/p&gt;
+&lt;p&gt;我猜大概是你看到了我的 &lt;strong&gt;Demon 數很多&lt;/strong&gt;才有這個錯覺，實際上有不少都是&lt;strong&gt;特攻某類型 GP&lt;/strong&gt; 的 Demon，因此我只是熟練特定類型的 GP （例如 Dual GP，而且是相較之下）。&lt;/p&gt;
+&lt;h3 id=&#34;q4&#34;&gt;Q4.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/a3765c9d-4b0f-42b7-9b37-92c9502dbf45&#34;&gt;你是怎麼發現你有做音樂的天賦&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;同樣的，我其實沒有做音樂的天賦，現在發布的音樂大部分都是靠我對做音樂的&lt;strong&gt;愛好和熱情&lt;/strong&gt;去撐的，再加上缺乏任何想精進做音樂的技能，你能發現我的音樂&lt;strong&gt;都是半吊子&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;q5&#34;&gt;Q5.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/0598dd68-eea1-4716-9e9a-78d5edc71948&#34;&gt;你的頭像好可愛&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;?&lt;/p&gt;
+&lt;p&gt;首先，我很欣賞你那&lt;strong&gt;敏銳的視覺&lt;/strong&gt;（&lt;del&gt;因為其他人幾乎都看不到我的頭像是在畫什麼東西&lt;/del&gt;）。
+但，&lt;del&gt;我的頭像之前還被人說過是西瓜耶？&lt;/del&gt;&lt;/p&gt;
+&lt;h3 id=&#34;q6&#34;&gt;Q6.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/8a1413ba-348f-49b2-8c57-ef1b99371a5d&#34;&gt;食物&amp;amp;飲料問題&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;你喜歡吃飯還是麵&lt;/li&gt;
+&lt;li&gt;你喜歡吃麥當勞還是KFC&lt;/li&gt;
+&lt;li&gt;KFC VS. 拿波里 的炸雞你選哪個&lt;/li&gt;
+&lt;li&gt;你喜歡可口還是百事還是Dr Pepper&lt;/li&gt;
+&lt;li&gt;你吃水餃都吃幾顆&lt;/li&gt;
+&lt;li&gt;你喜歡用筷子、叉子還是湯匙or叉匙or叉湯刀(?)&lt;/li&gt;
+&lt;li&gt;你吃炸雞是徒手吃還是用餐具&lt;/li&gt;
+&lt;li&gt;你吃什麼東西會最想加蛋&lt;/li&gt;
+&lt;li&gt;你討厭香菜嗎&lt;/li&gt;
+&lt;li&gt;你最喜歡哪種泡麵&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;del&gt;我不知道你問這些的意義在哪&lt;/del&gt;，不過如果你想知道答案的話，以下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;沒特別愛好&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;以下皆為都不怎麼吃&lt;/del&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;問問題的人，你很明顯&lt;strong&gt;不是我的粉絲&lt;/strong&gt;，因為你應該要知道我是&lt;del&gt;可可豆阿公&lt;/del&gt;。然後就是我不想回答這些問題，所以以上回答皆為敷衍。&lt;/p&gt;
+&lt;h3 id=&#34;q7&#34;&gt;Q7.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Oh Hey Hi&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/52230cb6-4eed-4928-a46e-07e5aeaf8a55&#34;&gt;你長的很可愛&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;何意味。。。&lt;/p&gt;
+&lt;h3 id=&#34;q8&#34;&gt;Q8.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/c7bac0f9-bad3-412f-a558-8a7bb92587a7&#34;&gt;棉花糖好吃嗎&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不好吃。&lt;/p&gt;
+&lt;h3 id=&#34;q9&#34;&gt;Q9.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/e563f19b-635a-480a-96fa-e564afc87c46&#34;&gt;請問一下我要怎麼用Marshmallow QA 發送問題給Boring game&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這是一個好問題！讓我先告訴其他不會的人要怎麼做：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打開你任何一個&lt;strong&gt;可以連網&lt;/strong&gt;的裝置。&lt;/li&gt;
+&lt;li&gt;打開任何一個&lt;strong&gt;支援 Marshmallow 網站&lt;/strong&gt;的瀏覽器，你可以點&lt;a href=&#34;https://marshmallow-qa.com&#34;&gt;這裡&lt;/a&gt;測試。&lt;/li&gt;
+&lt;li&gt;開啟這個&lt;a href=&#34;https://marshmallow-qa.com/cmy9s5ccqbulpqr&#34;&gt;網址&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;在「匿名向Boring Game發送訊息」下面的框框&lt;/strong&gt;填寫你想問我的問題，例如「請問一下我要怎麼用Marshmallow QA 發送問題給Boring game」。&lt;/li&gt;
+&lt;li&gt;按下&lt;strong&gt;發送&lt;/strong&gt;，恭喜你成功地用 Marshmallow QA 發送問題給我！！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;至於你的話，由於你的狀況&lt;strong&gt;比較特殊&lt;/strong&gt;，我調查地挺久，不過最終我推出了一套步驟，希望這能幫助到你：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;去碰草&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;q10&#34;&gt;Q10.&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/66564fa4-8eff-4463-b39b-627328db64e1&#34;&gt;打我&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;呃，怎麼樣的打法？用手掌、手背，還是用&lt;strong&gt;手肘&lt;/strong&gt;？&lt;/p&gt;
+&lt;p&gt;看你為了我把題目字數濃縮地那麼精明簡要，&lt;del&gt;也許我應該三個都來&lt;/del&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;
+&lt;p&gt;我不知道要總結什麼，但未來應該會繼續出這種 Marshmallow Q&amp;amp;A 的 Post（前提是要累積足夠的問題，&lt;strong&gt;而且我想要回答&lt;/strong&gt;），各位就敬請期待啦！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tessellation Final Preview</title>
+      <link>https://boringgameofficial.github.io/blog/20221121/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/blog/20221121/</guid>
+      <description>&lt;p&gt;那天終於到來了。&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/x7lgtmt8LTc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;hr&gt;
+&lt;p&gt;去年&lt;/p&gt;
+&lt;p&gt;開始這 403 天&lt;/p&gt;
+&lt;p&gt;那怕只有一點點&lt;/p&gt;
+&lt;p&gt;有做才不會徹夜難眠&lt;/p&gt;
+&lt;p&gt;關卡雛形漸漸顯現&lt;/p&gt;
+&lt;p&gt;一個念頭，轉眼間&lt;/p&gt;
+&lt;p&gt;回頭才發現&lt;/p&gt;
+&lt;p&gt;我們的路已走很遠&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;幾次的討論&lt;/p&gt;
+&lt;p&gt;幾次的紛爭&lt;/p&gt;
+&lt;p&gt;你們還是不斷地陪伴著這個愚笨的人&lt;/p&gt;
+&lt;p&gt;成就了這個關卡的誕生、過程和完成&lt;/p&gt;
+&lt;p&gt;我對你們留下了感恩&lt;/p&gt;
+&lt;p&gt;謝謝你們&lt;/p&gt;
+&lt;p&gt;這群陪伴我的人&lt;/p&gt;
+&lt;p&gt;希望我們的緣分&lt;/p&gt;
+&lt;p&gt;能夠永恆。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
