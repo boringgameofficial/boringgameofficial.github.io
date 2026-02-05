@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Boring Game</title>
-    <link>https://boringgameofficial.github.io/tags/blog/</link>
-    <description>Recent content in Blog on Boring Game</description>
+    <title>BlogBlog 同樂會 on Boring Game</title>
+    <link>https://boringgameofficial.github.io/tags/blogblog-%E5%90%8C%E6%A8%82%E6%9C%83/</link>
+    <description>Recent content in BlogBlog 同樂會 on Boring Game</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2026 Boring Game All Right Reserved.</copyright>
     <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://boringgameofficial.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://boringgameofficial.github.io/tags/blogblog-%E5%90%8C%E6%A8%82%E6%9C%83/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -60,40 +60,6 @@
 &lt;p&gt;如果你想玩玩看的話，你可以參考&lt;a href=&#34;https://cmus.github.io/#documentation&#34;&gt;官方文件&lt;/a&gt;的安裝教學。&lt;/p&gt;
 &lt;h2 id=&#34;題外話的題外話&#34;&gt;題外話的題外話&lt;/h2&gt;
 &lt;p&gt;（這篇貼文會寫成這副模樣，大概只是因為我不知道要怎麼在 blog 裡呈現詼諧的氣氛罷了。）&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>我的個人網站發展史</title>
-      <link>https://boringgameofficial.github.io/blog/20260118/</link>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://boringgameofficial.github.io/blog/20260118/</guid>
-      <description>&lt;p&gt;在深挖硬碟的時候，我找回了我的第一版個人網站。因為不知道要寫什麼當作 blog 的內容，乾脆談談我的個人網站發展史吧！&lt;/p&gt;
-&lt;h3 id=&#34;第一版&#34;&gt;第一版&lt;/h3&gt;
-&lt;p&gt;2022 年的某日，我心血來潮，想學習如何寫網頁，於是我找了 HTML 和 CSS 的教學：&lt;/p&gt;
-&lt;p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/Ml78vnNTBLw&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/Ml78vnNTBLw&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;然後寫出了很醜的網頁。&lt;/del&gt;&lt;/p&gt;
-&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260118-1.jpg&#34; width=&#34;600&#34; alt=&#34;第一版個人網站截圖&#34;/&gt;
-&lt;p&gt;（如果你想要來看整個網頁長什麼模樣，可以點&lt;a href=&#34;https://boringgameofficial.github.io/old-website.html&#34;&gt;這裡&lt;/a&gt;。不過內容不是當初那個樣子，而是被改成和現在主頁相同的文字了。）&lt;/p&gt;
-&lt;p&gt;&lt;del&gt;就網頁的介面而言，其實可以看出我當時在嘗試把那兩部影片的所有教學內容都加入到網頁中。&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;網頁檔案寫完之後，我將它們放在 Google Drive 上，用 &lt;a href=&#34;https://www.drv.tw&#34;&gt;DriveToWeb&lt;/a&gt; 去架網站。&lt;/p&gt;
-&lt;h3 id=&#34;第二版&#34;&gt;第二版&lt;/h3&gt;
-&lt;p&gt;2023 年 4 月 3 日，&lt;del&gt;由於我覺得第一版的網頁很醜&lt;/del&gt;，再加上發現 Google 有協作平台，我試玩了一下，架了第二版的網頁。&lt;/p&gt;
-&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260118-2.jpg&#34; width=&#34;600&#34; alt=&#34;第二版個人網站截圖&#34;/&gt;
-&lt;p&gt;（同樣地，內容也被改成和現在主頁相同的文字了。除外，字型也不一定符合當初的樣子。）&lt;/p&gt;
-&lt;h3 id=&#34;第三版&#34;&gt;第三版&lt;/h3&gt;
-&lt;p&gt;就是現在這一版。&lt;/p&gt;
-&lt;p&gt;和前兩版不同，我使用了 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 和 Github Pages 架設了本網站，而我選的 Hugo theme 是 &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-bearblog&#34;&gt;Hugo Bear Blog&lt;/a&gt;。後來我改動了 CSS，將背景加上圖片，文字區塊加上模糊效果。&lt;/p&gt;
-&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260118-3.jpg&#34; width=&#34;600&#34; alt=&#34;第三版個人網站截圖（淺色模式）&#34;/&gt;
-&lt;p&gt;這版也有深色模式。&lt;/p&gt;
-&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260118-4.jpg&#34; width=&#34;600&#34; alt=&#34;第三版個人網站截圖（深色模式）&#34;/&gt;
-&lt;p&gt;至於為什麼改用 Hugo，&lt;del&gt;其實是為了要 deGoogle&lt;/del&gt;。&lt;/p&gt;
 </description>
     </item>
     
@@ -282,154 +248,6 @@
 &lt;p&gt;Lilysse Collective 是一個商業感不重的廠牌，反倒像是同人音樂社團，具有獨特的風格，散發著獨立音樂的魅力。無論你是 EDM 歌迷還是尋求耳目一新音樂的聽眾，Lilysse Collective 都有值得一聽的作品。&lt;/p&gt;
 &lt;h2 id=&#34;免責聲明&#34;&gt;免責聲明（？）&lt;/h2&gt;
 &lt;p&gt;我不是樂評，我不懂怎麼製作音樂，所以如果上文內容有誤或是用字不夠精確，請使用 e-mail 聯繫我： &lt;a href=&#34;mailto:boringgameofficial@proton.me&#34;&gt;boringgameofficial@proton.me&lt;/a&gt;，或是進入我的 &lt;a href=&#34;https://discord.gg/qRz8PrGGd9&#34;&gt;Discord 伺服器&lt;/a&gt;幫助我。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>我真正意義上的第一篇貼文</title>
-      <link>https://boringgameofficial.github.io/blog/20260104/</link>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://boringgameofficial.github.io/blog/20260104/</guid>
-      <description>&lt;p&gt;這應該是我真正意義上的第一篇貼文。&lt;/p&gt;
-&lt;h2 id=&#34;為什麼我開始經營部落格&#34;&gt;為什麼我開始經營部落格？&lt;/h2&gt;
-&lt;p&gt;用經營這個詞好像不太妥當。&lt;/p&gt;
-&lt;p&gt;主要原因是被 Author 推薦了 Wiwi 的部落格，看到了這篇&lt;a href=&#34;https://wiwi.blog/blog/it-doesnt-take-many#%E4%BD%A0%E7%9A%84-blog-%E5%8F%AF%E4%BB%A5%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C&#34;&gt;貼文&lt;/a&gt;。（不過矛盾的是，當我意識到自己的作品可能被發現時，會不由自主地害羞起來。我知道「被看見」是一件正常且不需要感到尷尬的事情，但我沒法阻止自己想到那邊去。）&lt;/p&gt;
-&lt;h2 id=&#34;思考抗拒被看見的原因&#34;&gt;思考抗拒被看見的原因&lt;/h2&gt;
-&lt;p&gt;可能是潛意識在自我否定吧。&lt;/p&gt;
-&lt;p&gt;我的個人網站有很多中英文混用，加上文筆極差，使得整體性大打折扣。但實際上，中英文混用不是為了讓我有個看起來很專業的架子（畢竟你能看出來我的作品，不管是音樂還是繪畫，其實都只是做好玩的），只是我中文和英文都很爛，而且表達能力很差罷了。&lt;/p&gt;
-&lt;p&gt;然而，即使我的文筆極差，&lt;a href=&#34;https://alexhsu.com/broken-chinese&#34;&gt;本質上其實問題不大&lt;/a&gt;。這就是為什麼我說「潛意識」在自我否定——明知自己這樣做不會怎樣，但心裡還是怕怕的。&lt;/p&gt;
-&lt;h2 id=&#34;這篇貼文到底想說什麼&#34;&gt;這篇貼文到底想說什麼？&lt;/h2&gt;
-&lt;p&gt;我不知道。看到這裡的人，&lt;del&gt;恭喜你成為讓我感到尷尬的其中一個罪魁禍首&lt;/del&gt;。&lt;/p&gt;
-&lt;p&gt;之後我可能會新增一個新的 blogroll 介面，和寫一篇貼文投稿到 &lt;a href=&#34;https://blogblog.club&#34;&gt;BlogBlog 同樂會&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;想不到要繼續寫什麼了，我也不想用 AI 修改或增加篇幅，這篇貼文就這樣結束吧。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Marshmallow Q&amp;A</title>
-      <link>https://boringgameofficial.github.io/blog/20251225/</link>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://boringgameofficial.github.io/blog/20251225/</guid>
-      <description>&lt;p&gt;差點忘記自己有開 Marshmallow 了，總之現在來回答大家的問題。&lt;/p&gt;
-&lt;h3 id=&#34;q1&#34;&gt;Q1.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/f92cd7c5-a627-48eb-8ebe-342473cb7ce4&#34;&gt;bg 想要移除bg的時候是不是都用remove bg&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;有沒有一種可能是 bg 沒有想要移除 bg（&lt;del&gt;暫時&lt;/del&gt;）&lt;/p&gt;
-&lt;h3 id=&#34;q2&#34;&gt;Q2.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/13dceee5-89ef-41f5-a9ad-1c0644086757&#34;&gt;bg和sk是親生兄弟嗎&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不是，&lt;del&gt;很可惜的&lt;/del&gt;。&lt;/p&gt;
-&lt;h3 id=&#34;q3&#34;&gt;Q3.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/4200a3-f07a-4272-bb66-bd16c69695b6&#34;&gt;你是怎麼發現你有玩 geometry dash的天賦的&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我其實沒有玩 GD 的天賦，只是被推來玩然後就喜歡上這遊戲了。&lt;/p&gt;
-&lt;p&gt;我猜大概是你看到了我的 Demon 數很多才有這個錯覺，實際上有不少都是特攻某類型 GP 的 Demon，因此我只是熟練特定類型的 GP （例如 Dual GP，而且是相較之下）。&lt;/p&gt;
-&lt;h3 id=&#34;q4&#34;&gt;Q4.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/a3765c9d-4b0f-42b7-9b37-92c9502dbf45&#34;&gt;你是怎麼發現你有做音樂的天賦&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;同樣的，我其實沒有做音樂的天賦，現在發布的音樂大部分都是靠我對做音樂的愛好和熱情去撐的，再加上缺乏任何想精進做音樂的技能，你能發現我的音樂都是半吊子。&lt;/p&gt;
-&lt;h3 id=&#34;q5&#34;&gt;Q5.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/0598dd68-eea1-4716-9e9a-78d5edc71948&#34;&gt;你的頭像好可愛&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;?&lt;/p&gt;
-&lt;p&gt;首先，我很欣賞你那敏銳的視覺（&lt;del&gt;因為其他人幾乎都看不到我的頭像是在畫什麼東西&lt;/del&gt;）。
-但，&lt;del&gt;我的頭像之前還被人說過是西瓜耶？&lt;/del&gt;&lt;/p&gt;
-&lt;h3 id=&#34;q6&#34;&gt;Q6.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/8a1413ba-348f-49b2-8c57-ef1b99371a5d&#34;&gt;食物&amp;amp;飲料問題&lt;/a&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;你喜歡吃飯還是麵&lt;/li&gt;
-&lt;li&gt;你喜歡吃麥當勞還是KFC&lt;/li&gt;
-&lt;li&gt;KFC VS. 拿波里 的炸雞你選哪個&lt;/li&gt;
-&lt;li&gt;你喜歡可口還是百事還是Dr Pepper&lt;/li&gt;
-&lt;li&gt;你吃水餃都吃幾顆&lt;/li&gt;
-&lt;li&gt;你喜歡用筷子、叉子還是湯匙or叉匙or叉湯刀(?)&lt;/li&gt;
-&lt;li&gt;你吃炸雞是徒手吃還是用餐具&lt;/li&gt;
-&lt;li&gt;你吃什麼東西會最想加蛋&lt;/li&gt;
-&lt;li&gt;你討厭香菜嗎&lt;/li&gt;
-&lt;li&gt;你最喜歡哪種泡麵&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;del&gt;我不知道你問這些的意義在哪&lt;/del&gt;，不過如果你想知道答案的話，以下：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;沒特別愛好&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;以下皆為都不怎麼吃&lt;/del&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;問問題的人，你很明顯不是我的粉絲，因為你應該要知道我是&lt;del&gt;可可豆阿公&lt;/del&gt;。然後就是我不想回答這些問題，所以以上回答皆為敷衍。&lt;/p&gt;
-&lt;h3 id=&#34;q7&#34;&gt;Q7.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Oh Hey Hi&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/52230cb6-4eed-4928-a46e-07e5aeaf8a55&#34;&gt;你長的很可愛&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;何意味。。。&lt;/p&gt;
-&lt;h3 id=&#34;q8&#34;&gt;Q8.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/c7bac0f9-bad3-412f-a558-8a7bb92587a7&#34;&gt;棉花糖好吃嗎&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;不好吃。&lt;/p&gt;
-&lt;h3 id=&#34;q9&#34;&gt;Q9.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/e563f19b-635a-480a-96fa-e564afc87c46&#34;&gt;請問一下我要怎麼用Marshmallow QA 發送問題給Boring game&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;這是一個好問題！讓我先告訴其他不會的人要怎麼做：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;打開你任何一個可以連網的裝置。&lt;/li&gt;
-&lt;li&gt;打開任何一個支援 Marshmallow 網站的瀏覽器，你可以點&lt;a href=&#34;https://marshmallow-qa.com&#34;&gt;這裡&lt;/a&gt;測試。&lt;/li&gt;
-&lt;li&gt;開啟這個&lt;a href=&#34;https://marshmallow-qa.com/cmy9s5ccqbulpqr&#34;&gt;網址&lt;/a&gt;。&lt;/li&gt;
-&lt;li&gt;在「匿名向Boring Game發送訊息」下面的框框填寫你想問我的問題，例如「請問一下我要怎麼用Marshmallow QA 發送問題給Boring game」。&lt;/li&gt;
-&lt;li&gt;按下發送，恭喜你成功地用 Marshmallow QA 發送問題給我！！&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;至於你的話，由於你的狀況比較特殊，我調查地挺久，不過最終我推出了一套步驟，希望這能幫助到你：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;去碰草。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;q10&#34;&gt;Q10.&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/66564fa4-8eff-4463-b39b-627328db64e1&#34;&gt;打我&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;呃，怎麼樣的打法？用手掌、手背，還是用手肘？&lt;/p&gt;
-&lt;p&gt;看你為了我把題目字數濃縮地那麼精明簡要，&lt;del&gt;也許我應該三個都來&lt;/del&gt;。&lt;/p&gt;
-&lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;
-&lt;p&gt;我不知道要總結什麼，但未來應該會繼續出這種 Marshmallow Q&amp;amp;A 的 Post（前提是要累積足夠的問題，而且我想要回答），各位就敬請期待啦！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tessellation Final Preview</title>
-      <link>https://boringgameofficial.github.io/blog/20221121/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://boringgameofficial.github.io/blog/20221121/</guid>
-      <description>&lt;p&gt;那天終於到來了。&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/x7lgtmt8LTc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;hr&gt;
-&lt;p&gt;去年&lt;/p&gt;
-&lt;p&gt;開始這 403 天&lt;/p&gt;
-&lt;p&gt;那怕只有一點點&lt;/p&gt;
-&lt;p&gt;有做才不會徹夜難眠&lt;/p&gt;
-&lt;p&gt;關卡雛形漸漸顯現&lt;/p&gt;
-&lt;p&gt;一個念頭，轉眼間&lt;/p&gt;
-&lt;p&gt;回頭才發現&lt;/p&gt;
-&lt;p&gt;我們的路已走很遠&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;幾次的討論&lt;/p&gt;
-&lt;p&gt;幾次的紛爭&lt;/p&gt;
-&lt;p&gt;你們還是不斷地陪伴著這個愚笨的人&lt;/p&gt;
-&lt;p&gt;成就了這個關卡的誕生、過程和完成&lt;/p&gt;
-&lt;p&gt;我對你們留下了感恩&lt;/p&gt;
-&lt;p&gt;謝謝你們&lt;/p&gt;
-&lt;p&gt;這群陪伴我的人&lt;/p&gt;
-&lt;p&gt;希望我們的緣分&lt;/p&gt;
-&lt;p&gt;能夠永恆。&lt;/p&gt;
 </description>
     </item>
     
