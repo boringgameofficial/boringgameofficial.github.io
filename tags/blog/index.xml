@@ -6,10 +6,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2026 Boring Game All Right Reserved.</copyright>
-    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://boringgameofficial.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>網站更新</title>
+      <link>https://boringgameofficial.github.io/blog/20260322/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/blog/20260322/</guid>
+      <description>&lt;p&gt;最近我注意到這個網站看起來好像沒那麼人性化（？），所以我把網站重新分一下類了。&lt;/p&gt;
+&lt;img src=&#34;https://boringgameofficial.github.io/images/blog/20260322-1.jpg&#34; width=&#34;400&#34; alt=&#34;更新前個人網站&#34;/&gt;
+&lt;p&gt;（順便紀錄一下更新前個人網站的樣子）&lt;/p&gt;
+&lt;p&gt;其中，主頁的 Links、Teams、History 的所有內容和 Use 被一同放在&lt;a href=&#34;https://boringgameofficial.github.io/info&#34;&gt;這裡&lt;/a&gt;。除此之外，新增了&lt;a href=&#34;https://boringgameofficial.github.io/tools&#34;&gt;工具&lt;/a&gt;，裡面就是放以前做的一些&lt;del&gt;沒用的東西&lt;/del&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://boringgameofficial.github.io/tools/date-calculator&#34;&gt;日期計算器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boringgameofficial.github.io/tools/odometer&#34;&gt;碼表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boringgameofficial.github.io/tools/alarm-clock&#34;&gt;鬧鐘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boringgameofficial.github.io/tools/countdown-timer&#34;&gt;倒計時器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其實它們只是我拿來練 Javascript 用的，全部可離線運行，不信你可以到&lt;a href=&#34;https://github.com/boringgameofficial/boringgameofficial.github.io/tree/main/tools&#34;&gt;這裡&lt;/a&gt;檢查。&lt;/p&gt;
+&lt;p&gt;對於這次網站更新，如果你們有建議，請使用 &lt;a href=&#34;mailto:boringgameofficial@proton.me&#34;&gt;e-mail&lt;/a&gt; 聯繫我，或是進入我的 &lt;a href=&#34;https://discord.gg/qRz8PrGGd9&#34;&gt;Discord 伺服器&lt;/a&gt;幫助我。&lt;/p&gt;
+&lt;p&gt;（題外話：&lt;a href=&#34;https://boringgameofficial.github.io/blogroll&#34;&gt;Blogroll&lt;/a&gt; 和 &lt;a href=&#34;https://boringgameofficial.github.io/info/use&#34;&gt;Use&lt;/a&gt; 也更新了，可以過來看看。）&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>小小推坑：kiynaria</title>
@@ -100,7 +122,7 @@
 &lt;li&gt;Lockyn - Transient&lt;/li&gt;
 &lt;/ul&gt;
 &lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1187979199/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=2925823757/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://kiynaria.com/album/memories-vol-2-transient&#34;&gt;Memories, Vol. 2: Transient by kiynaria&lt;/a&gt;&lt;/iframe&gt;
-&lt;p&gt;Memories, Vol. 2: Transient 專輯曲。經典 Electro House 味。drop 段那 16 小節炫技段 + 16 小節旋律段的處理方式我尤其喜歡。&lt;/p&gt;
+&lt;p&gt;Memories, Vol. 2: Transient 專輯曲。經典 Electro House 味。Drop 段那 16 小節炫技段 + 16 小節旋律段的處理方式我尤其喜歡。&lt;/p&gt;
 &lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Lockyn - Everlasting&lt;/li&gt;
@@ -118,7 +140,7 @@
 &lt;li&gt;Lockyn - Pulse&lt;/li&gt;
 &lt;/ul&gt;
 &lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/track=1088158000/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://kiynaria.com/track/pulse&#34;&gt;Pulse by kiynaria&lt;/a&gt;&lt;/iframe&gt;
-&lt;p&gt;本曲和 Stellar 為 kiynaria 最成熟的近期氛圍向 Trance。&lt;/p&gt;
+&lt;p&gt;本曲為 kiynaria 最成熟的近期氛圍向 Trance。&lt;/p&gt;
 &lt;h2 id=&#34;免責聲明&#34;&gt;免責聲明（？）&lt;/h2&gt;
 &lt;p&gt;我不是樂評，我不懂怎麼製作音樂，所以如果上文內容有誤或是用字不夠精確，請使用 &lt;a href=&#34;mailto:boringgameofficial@proton.me&#34;&gt;e-mail&lt;/a&gt; 聯繫我，或是進入我的 &lt;a href=&#34;https://discord.gg/qRz8PrGGd9&#34;&gt;Discord 伺服器&lt;/a&gt;幫助我。&lt;/p&gt;
 </description>
@@ -225,7 +247,7 @@
 &lt;p&gt;對話紀錄像舊時拍的照片，可以用來回味。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;承上，&lt;del&gt;可以放在&lt;a href=&#34;https://boringgameofficial.github.io/history/quotes/&#34;&gt;個人網站上公開處刑&lt;/a&gt;&lt;/del&gt;。&lt;/p&gt;
+&lt;p&gt;承上，&lt;del&gt;可以放在&lt;a href=&#34;https://boringgameofficial.github.io/info/quotes&#34;&gt;個人網站上公開處刑&lt;/a&gt;&lt;/del&gt;。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;這麼做會產生的問題以及解決辦法&#34;&gt;這麼做會產生的問題以及解決辦法&lt;/h2&gt;
@@ -377,7 +399,7 @@
 &lt;li&gt;Vulpec - Shutdown (feat. n i n e t a i l s)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;iframe style=&#34;border: 0; width: 100%; height: 120px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=101444881/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/track=2251763983/transparent=true/&#34; seamless&gt;&lt;a href=&#34;https://lilysse.bandcamp.com/album/lilysse-vol-2-reach&#34;&gt;Lilysse Vol. 2 - Reach by Vulpec&lt;/a&gt;&lt;/iframe&gt;
-&lt;p&gt;神曲，尤其是從飽滿的 buildup 到 Minimal 的 drop 段。&lt;/p&gt;
+&lt;p&gt;神曲，尤其是從飽滿的 buildup 到 minimal 的 drop 段。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Prower - Puzzles&lt;/li&gt;
 &lt;/ul&gt;
@@ -484,7 +506,7 @@
       <description>&lt;p&gt;這應該是我真正意義上的第一篇貼文。&lt;/p&gt;
 &lt;h2 id=&#34;為什麼我開始經營部落格&#34;&gt;為什麼我開始經營部落格？&lt;/h2&gt;
 &lt;p&gt;用經營這個詞好像不太妥當。&lt;/p&gt;
-&lt;p&gt;主要原因是被 Author 推薦了 Wiwi 的部落格，看到了這篇&lt;a href=&#34;https://wiwi.blog/blog/it-doesnt-take-many#%E4%BD%A0%E7%9A%84-blog-%E5%8F%AF%E4%BB%A5%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C&#34;&gt;貼文&lt;/a&gt;。（不過矛盾的是，當我意識到自己的作品可能被發現時，會不由自主地害羞起來。我知道「被看見」是一件正常且不需要感到尷尬的事情，但我沒法阻止自己想到那邊去。）&lt;/p&gt;
+&lt;p&gt;主要原因是被 Author 推薦了 &lt;a href=&#34;https://wiwi.blog/&#34;&gt;Wiwi&lt;/a&gt; 的部落格，看到了這篇&lt;a href=&#34;https://wiwi.blog/blog/it-doesnt-take-many#%E4%BD%A0%E7%9A%84-blog-%E5%8F%AF%E4%BB%A5%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C&#34;&gt;貼文&lt;/a&gt;。（不過矛盾的是，當我意識到自己的作品可能被發現時，會不由自主地害羞起來。我知道「被看見」是一件正常且不需要感到尷尬的事情，但我沒法阻止自己想到那邊去。）&lt;/p&gt;
 &lt;h2 id=&#34;思考抗拒被看見的原因&#34;&gt;思考抗拒被看見的原因&lt;/h2&gt;
 &lt;p&gt;可能是潛意識在自我否定吧。&lt;/p&gt;
 &lt;p&gt;我的個人網站有很多中英文混用，加上文筆極差，使得整體性大打折扣。但實際上，中英文混用不是為了讓我有個看起來很專業的架子（畢竟你能看出來我的作品，不管是音樂還是繪畫，其實都只是做好玩的），只是我中文和英文都很爛，而且表達能力很差罷了。&lt;/p&gt;
@@ -518,7 +540,7 @@
 &lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/4200a3-f07a-4272-bb66-bd16c69695b6&#34;&gt;你是怎麼發現你有玩 geometry dash的天賦的&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;我其實沒有玩 GD 的天賦，只是被推來玩然後就喜歡上這遊戲了。&lt;/p&gt;
-&lt;p&gt;我猜大概是你看到了我的 Demon 數很多才有這個錯覺，實際上有不少都是特攻某類型 GP 的 Demon，因此我只是熟練特定類型的 GP （例如 Dual GP，而且是相較之下）。&lt;/p&gt;
+&lt;p&gt;我猜大概是你看到了我的 demon 數很多才有這個錯覺，實際上有不少都是特攻某類型 GP 的 demon，因此我只是熟練特定類型的 GP （例如 dual GP，而且是相較之下）。&lt;/p&gt;
 &lt;h3 id=&#34;q4&#34;&gt;Q4.&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://marshmallow-qa.com/messages/a3765c9d-4b0f-42b7-9b37-92c9502dbf45&#34;&gt;你是怎麼發現你有做音樂的天賦&lt;/a&gt;&lt;/p&gt;
@@ -587,7 +609,7 @@
 &lt;p&gt;呃，怎麼樣的打法？用手掌、手背，還是用手肘？&lt;/p&gt;
 &lt;p&gt;看你為了我把題目字數濃縮地那麼精明簡要，&lt;del&gt;也許我應該三個都來&lt;/del&gt;。&lt;/p&gt;
 &lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;
-&lt;p&gt;我不知道要總結什麼，但未來應該會繼續出這種 Marshmallow Q&amp;amp;A 的 Post（前提是要累積足夠的問題，而且我想要回答），各位就敬請期待啦！&lt;/p&gt;
+&lt;p&gt;我不知道要總結什麼，但未來應該會繼續出這種 Marshmallow Q&amp;amp;A 的貼文（前提是要累積足夠的問題，而且我想要回答），各位就敬請期待啦！&lt;/p&gt;
 </description>
     </item>
     

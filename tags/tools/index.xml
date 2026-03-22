@@ -1,0 +1,172 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Boring Game</title>
+    <link>https://boringgameofficial.github.io/tags/tools/</link>
+    <description>Recent content in Tools on Boring Game</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <copyright>© 2026 Boring Game All Right Reserved.</copyright>
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://boringgameofficial.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>倒計時器</title>
+      <link>https://boringgameofficial.github.io/tools/countdown-timer/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/tools/countdown-timer/</guid>
+      <description>&lt;h1 id=&#34;倒計時器&#34;&gt;倒計時器&lt;/h1&gt;
+&lt;p&gt;記得不要刷新頁面。&lt;/p&gt;
+&lt;div class=&#34;timer&#34; id=&#34;timerDisplay&#34;&gt;00:00:00&lt;/div&gt;
+&lt;input type=&#34;number&#34; id=&#34;hr&#34; placeholder=&#34;小時&#34; min=&#34;0&#34;/&gt;
+&lt;input type=&#34;number&#34; id=&#34;mins&#34; placeholder=&#34;分鐘&#34; min=&#34;0&#34; max=&#34;59&#34;/&gt;
+&lt;input type=&#34;number&#34; id=&#34;s&#34; placeholder=&#34;秒&#34; min=&#34;0&#34; max=&#34;59&#34;/&gt;
+&lt;script&gt;
+	var cdi, t;
+	function strt() {
+		t = ((parseInt(document.getElementById(&#34;hr&#34;).value) || 0) * 3600) + ((parseInt(document.getElementById(&#34;mins&#34;).value) || 0) * 60) + (parseInt(document.getElementById(&#34;s&#34;).value) || 0);
+		if (t &lt;= 0) {
+			alert(&#34;請設置有效的倒計時！&#34;);
+			return;
+		}
+		clearInterval(cdi);
+		cdi = setInterval(() =&gt; {
+			if (t &lt;= 0) {
+				clearInterval(cdi);
+				const audio = new Audio(&#39;/FUCK_YOU_KICK.mp3&#39;);
+				audio.play().catch(error =&gt; {
+					console.error(&#34;音效播放失敗:&#34;, error);
+					alert(&#34;無法播放音效，請檢查瀏覽器設定！&#34;);
+				});
+				alert(&#34;倒計時結束！&#34;);
+				return;
+			}
+			t--;
+			tmr();
+		}, 1000);
+	}
+	function rst() {
+		clearInterval(cdi);;
+		t = 0;
+		tmr();
+	}
+	function tmr() {
+		document.getElementById(&#34;timerDisplay&#34;).innerText = 
+			String(Math.floor(t / 3600)).padStart(2, &#39;0&#39;) + &#39;:&#39; + 
+			String(Math.floor((t % 3600) / 60)).padStart(2, &#39;0&#39;) + &#39;:&#39; + 
+			String(t % 60).padStart(2, &#39;0&#39;);
+	}
+&lt;/script&gt;
+&lt;p&gt;&lt;button onclick=&#34;strt()&#34;&gt;開始&lt;/button&gt;
+&lt;button onclick=&#34;clearInterval(cdi);&#34;&gt;停止&lt;/button&gt;
+&lt;button onclick=&#34;rst()&#34;&gt;重置&lt;/button&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>鬧鐘</title>
+      <link>https://boringgameofficial.github.io/tools/alarm-clock/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/tools/alarm-clock/</guid>
+      <description>&lt;h1 id=&#34;鬧鐘&#34;&gt;鬧鐘&lt;/h1&gt;
+&lt;p&gt;記得不要刷新頁面。&lt;/p&gt;
+&lt;script&gt;
+	var to;
+	function setAlarm() {
+		const t = document.getElementById(&#34;t&#34;).value;
+		if (!t) {
+			alert(&#34;請設定鬧鐘時間！&#34;);
+			return;
+		}
+		const d = new Date(), [hr, mins] = t.split(&#34;:&#34;);
+		d.setHours(hr), d.setMinutes(mins), d.setSeconds(0);
+		const nw = new Date();
+		if (d &lt;= nw)
+			d.setDate(d.getDate() + 1);
+		const tta = d.getTime() - nw.getTime();
+		to = setTimeout(() =&gt; {
+			const audio = new Audio(&#39;/FUCK_YOU_KICK.mp3&#39;);
+		audio.play().catch(error =&gt; {
+			console.error(&#34;音效播放失敗:&#34;, error);
+			alert(&#34;無法播放音效，請檢查瀏覽器設定！&#34;);
+		});
+			alert(&#34;鬧鐘響了！&#34;);
+		}, tta);
+		alert(`鬧鐘已設定在 ${d.toLocaleTimeString()}`);
+	}
+&lt;/script&gt;
+&lt;input type=&#34;time&#34; id=&#34;t&#34; required/&gt;
+&lt;button onclick=&#34;setAlarm()&#34;&gt;設定鬧鐘&lt;/button&gt;</description>
+    </item>
+    
+    <item>
+      <title>碼表</title>
+      <link>https://boringgameofficial.github.io/tools/odometer/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/tools/odometer/</guid>
+      <description>&lt;h1 id=&#34;碼表&#34;&gt;碼表&lt;/h1&gt;
+&lt;script&gt;
+	var b, st, t = 0;
+	function strt() {
+		if (b)
+			return;
+		st = Date.now() - t;
+		b = setInterval(() =&gt; {
+			t = Date.now() - st;
+			tmr();
+		}, 10);
+	}
+	function stp() {
+		clearInterval(b);
+		b = null;
+	}
+	function rst() {
+		stp();
+		t = 0;
+		tmr();
+	}
+	function tmr() {
+		document.getElementById(&#34;tmr&#34;).innerText = 
+			String(Math.floor(t / 3600000)).padStart(2, &#39;0&#39;) + &#39;:&#39; + 
+			String(Math.floor((t % 3600000) / 60000)).padStart(2, &#39;0&#39;) + &#39;:&#39; + 
+			String(Math.floor((t % 60000) / 1000)).padStart(2, &#39;0&#39;) + &#39;.&#39; + 
+			String(Math.floor((t % 1000) / 10)).padStart(2, &#39;0&#39;);
+	}
+&lt;/script&gt;
+&lt;div class=&#34;timer&#34; id=&#34;tmr&#34;&gt;00:00:00.00&lt;/div&gt;
+&lt;button onclick=&#34;strt()&#34;&gt;開始&lt;/button&gt;
+&lt;button onclick=&#34;stp()&#34;&gt;停止&lt;/button&gt;
+&lt;button onclick=&#34;rst()&#34;&gt;重置&lt;/button&gt;</description>
+    </item>
+    
+    <item>
+      <title>日期計算器</title>
+      <link>https://boringgameofficial.github.io/tools/date-calculator/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/tools/date-calculator/</guid>
+      <description>&lt;h1 id=&#34;日期計算器&#34;&gt;日期計算器&lt;/h1&gt;
+&lt;p&gt;&lt;label for=&#34;date1&#34;&gt;選擇第一個日期：&lt;/label&gt;
+&lt;input type=&#34;date&#34; id=&#34;d1&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;label for=&#34;date2&#34;&gt;選擇第二個日期：&lt;/label&gt;
+&lt;input type=&#34;date&#34; id=&#34;d2&#34;/&gt;&lt;/p&gt;
+&lt;script&gt;
+	function f() {
+		const d1 = new Date(document.getElementById(&#39;d1&#39;).value), d2 = new Date(document.getElementById(&#39;d2&#39;).value);
+		if (!d1 || !d2) {
+			document.getElementById(&#39;result&#39;).innerText = &#39;請選擇兩個日期。&#39;;
+			return;
+		}
+		document.getElementById(&#39;result&#39;).innerText = `兩個日期之間的天數是：${Math.ceil(Math.abs(d2 - d1) / (1000 * 60 * 60 * 24))} 天。`;
+	}
+&lt;/script&gt;
+&lt;p&gt;&lt;button onclick=&#34;f()&#34;&gt;計算天數&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&#34;result&#34; id=&#34;result&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
