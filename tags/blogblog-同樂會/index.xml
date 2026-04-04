@@ -6,10 +6,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2026 Boring Game All Right Reserved.</copyright>
-    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://boringgameofficial.github.io/tags/blogblog-%E5%90%8C%E6%A8%82%E6%9C%83/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>生產力？這是什麼東西？</title>
+      <link>https://boringgameofficial.github.io/blog/20260404/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/blog/20260404/</guid>
+      <description>&lt;p&gt;（本篇為 &lt;a href=&#34;https://www.wen-lab.tw/blogblog-party-productivity&#34;&gt;BlogBlog 同樂會 - 第 4 期：生產力&lt;/a&gt;之投稿貼文）&lt;/p&gt;
+&lt;p&gt;今年三月底，我去看了這個月的 BlogBlog 同樂會主題。&lt;/p&gt;
+&lt;p&gt;「生產力？這是什麼東西？」由於從來沒聽過這個詞，我參考了先投稿的貼文們，才發現&lt;del&gt;我是山頂洞人&lt;/del&gt;，好像除了 &lt;a href=&#34;https://rayrrrrrrr.bearblog.dev/5928&#34;&gt;RayrrrrrrR&lt;/a&gt; 以外只剩下我對這個詞沒概念了。&lt;/p&gt;
+&lt;p&gt;不廢話了，先分享一些我發現在電腦中能提升生產力的技巧吧。&lt;/p&gt;
+&lt;h2 id=&#34;在電腦中能提升生產力的技巧&#34;&gt;在電腦中能提升生產力的技巧&lt;/h2&gt;
+&lt;h3 id=&#34;使用終端機工具&#34;&gt;使用終端機工具&lt;/h3&gt;
+&lt;p&gt;最近一個月，我開始使用 &lt;a href=&#34;https://ranger.fm&#34;&gt;ranger&lt;/a&gt; 去嘗試取代 &lt;a href=&#34;https://github.com/linuxmint/nemo&#34;&gt;nemo&lt;/a&gt;、用 &lt;a href=&#34;https://micro-editor.github.io&#34;&gt;micro&lt;/a&gt; 去取代 Obsidian 等&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。雖然最初對於終端機介面非常不習慣，但隨著長時間的使用，我發現使用電腦時，比較知道自己要做什麼，而不是打開軟體後過了幾分鐘才想起。&lt;/p&gt;
+&lt;h3 id=&#34;把工作列--面板自動隱藏&#34;&gt;把工作列 / 面板自動隱藏&lt;/h3&gt;
+&lt;p&gt;如果永遠顯示的話，我很容易就想要點開底下的捷徑 / 軟體，於是關機前就會有一堆開啟的視窗，使我沒有辦法專心做一件事。因此之所以這麼做，為的就是避免自己走神。&lt;/p&gt;
+&lt;h3 id=&#34;使用全螢幕&#34;&gt;使用全螢幕&lt;/h3&gt;
+&lt;p&gt;和前面技巧同樣的道理，但做的更絕。&lt;/p&gt;
+&lt;h3 id=&#34;減少滑鼠使用&#34;&gt;減少滑鼠使用&lt;/h3&gt;
+&lt;p&gt;能使用鍵盤就使用鍵盤，盡量不要&lt;a href=&#34;https://wiwi.blog/blog/keyboard-shortcuts&#34;&gt;滑鼠和鍵盤切換使用&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;這些技巧也可不只停留在電腦使用中&#34;&gt;這些技巧也可不只停留在電腦使用中&lt;/h2&gt;
+&lt;p&gt;其實這四點結合起來的概念就是：使桌面變得簡潔、減少會讓人分心的事物出現機率。那麼，如果上升到現實層面上，這些技巧就變成：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;整理房間&lt;/li&gt;
+&lt;li&gt;把手機收到比較難取得的地方，或者停止使用前先拔卡，將其與手機分散&lt;/li&gt;
+&lt;li&gt;減少不必要的打擾&lt;/li&gt;
+&lt;li&gt;適時放空&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://boringgameofficial.github.io/blog/20260306&#34;&gt;回歸簡約&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其實做這些事情還挺抒壓的，還能給自己多一點空檔去整理自己的思緒，一舉多得。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;編輯 Markdown 表格時，我還是會用 Obsidian。純文字編輯表格還是有點太難用了。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>回歸簡約</title>
