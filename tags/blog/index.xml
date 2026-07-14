@@ -44,7 +44,7 @@
 
 &lt;h3 id=&#34;解決方法&#34;&gt;解決方法&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;將所有舊的硬體汰換成 64 位元。（包含嵌入式）&lt;/li&gt;
+&lt;li&gt;將所有舊的硬體汰換成 64 位元。&lt;/li&gt;
 &lt;li&gt;不使用以 32 位元有號整數處理 timestamp 的軟體。&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;想不到了……。饒過我吧，我不是這方面的專家啊&lt;/del&gt;。（不過英文維基百科倒是有列出&lt;a href=&#34;https://en.wikipedia.org/wiki/Year_2038_problem#Implemented_solutions&#34;&gt;大家對該問題的應對措施&lt;/a&gt;）&lt;/li&gt;
 &lt;/ul&gt;
