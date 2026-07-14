@@ -6,10 +6,69 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>© 2026 Boring Game All Right Reserved.</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://boringgameofficial.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unix time 與 2038 年問題</title>
+      <link>https://boringgameofficial.github.io/blog/20260715/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://boringgameofficial.github.io/blog/20260715/</guid>
+      <description>&lt;p&gt;（本篇為 BlogBlog 同樂會 - 第 7 期：&lt;a href=&#34;https://shuaixin.cc/Fun-Fact&#34;&gt;有趣的小知識或冷門概念&lt;/a&gt;之投稿貼文）&lt;/p&gt;
+&lt;h2 id=&#34;unix-time-是什麼&#34;&gt;Unix time 是什麼？&lt;/h2&gt;
+&lt;p&gt;Unix time 是從西元 1970 年 1 月 1 日 0 時 0 分 0 秒（UTC）至今所經過的秒數（不包含閏秒&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;），運用於資料庫、logs、檔案的 timestamp 等處。&lt;/p&gt;
+&lt;p&gt;這是現在的 Unix time&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;，在 Javascript 中可以用 &lt;code&gt;Date.now()&lt;/code&gt; 除以 1000 並向下取整得出。&lt;/p&gt;
+&lt;h3&gt;&lt;div&gt;&lt;span id=&#34;unixTime&#34;/&gt;&lt;/div&gt;&lt;/h3&gt;
+&lt;script&gt;
+	const now = document.getElementById(&#39;unixTime&#39;);
+	function f() {
+		now.textContent = String(Math.floor(Date.now() / 1000));
+	}
+	f();
+	setInterval(f, 100);
+&lt;/script&gt;
+&lt;h2 id=&#34;2038-年問題&#34;&gt;2038 年問題&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;現在有許多裝置仍以 32 位元有號整數&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;表示 Unix time。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;西元 1970 年 1 月 1 日 0 時 0 分 0 秒的 2147483648（2&lt;sup&gt;31&lt;/sup&gt;）秒後，這些 Unix time 會 overflow，導致對應 UTC 時間變成西元 1901 年 12 月 13 日 20 時 45 分 52 秒。&lt;/li&gt;
+&lt;li&gt;任何仍以 32 位元有號整數儲存 Unix time 的任何程式與系統可能出現問題。&lt;/li&gt;
+&lt;li&gt;意即類似 Y2K 的危機將於 西元 2038 年 1 月 19 日 3 時 14 分 8 秒再度重演。關於其更詳細的介紹，可以看啾啾鞋的這部影片：&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/NHwbnhRFnuw&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;解決方法&#34;&gt;解決方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;將所有舊的硬體汰換成 64 位元。（包含嵌入式）&lt;/li&gt;
+&lt;li&gt;不使用以 32 位元有號整數處理 timestamp 的軟體。&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;想不到了……。饒過我吧，我不是這方面的專家啊&lt;/del&gt;。（不過英文維基百科倒是有列出&lt;a href=&#34;https://en.wikipedia.org/wiki/Year_2038_problem#Implemented_solutions&#34;&gt;大家對該問題的應對措施&lt;/a&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;免責聲明&#34;&gt;免責聲明（？）&lt;/h2&gt;
+&lt;p&gt;如果上文內容有誤或是用字不夠精確，請使用 &lt;a href=&#34;mailto:boringgameofficial@proton.me&#34;&gt;e-mail&lt;/a&gt; 聯繫我，或是進入我的 &lt;a href=&#34;https://discord.gg/qRz8PrGGd9&#34;&gt;Discord 伺服器&lt;/a&gt;幫助我。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;因此出現正閏秒&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;（插入閏秒）時，同一個 Unix time 將對上兩個 UTC 時間點。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;這邊只提到正閏秒是因為目前還沒出現過負閏秒。至於未來可能出現的時間點，可以看看&lt;a href=&#34;https://www.nature.com/articles/s41586-024-07170-0&#34;&gt;這篇論文&lt;/a&gt;。&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;其實該數字仍不夠準確，至於原因，你可以 &lt;kbd&gt;F12&lt;/kbd&gt; 看看源代碼。（也可以在終端機輸入 &lt;code&gt;date +%s&lt;/code&gt; 顯示準確的 Unix time）&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;由於需要表示西元 1970 年 1 月 1 日 0 時 0 分 0 秒（UTC）前的時間，很多系統會將數字的最高位（二進位）當作正負號，0 為正、1 為負。&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Everywhere at the End of Time</title>
@@ -274,7 +333,7 @@
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/Hld5aHtGbVU&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;從 1st drop 的 Dubstep，轉換到 2nd drop 的 House，這是 kiynaria 第一首兩段 drop 類型不同的歌曲。&lt;/p&gt;
+&lt;p&gt;從 1st drop 的 Dubstep，轉換到 2nd drop 的 House，這是 kiynaria 為數不多兩段 drop 類型不同的歌曲。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Lockyn - Daybreak&lt;/li&gt;
 &lt;/ul&gt;
